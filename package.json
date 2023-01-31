@@ -1,0 +1,24 @@
+{
+  "name": "drag-drop-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/manujelko/drag-drop-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manujelko/drag-drop-ts/issues"
+  },
+  "homepage": "https://github.com/manujelko/drag-drop-ts#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^4.9.5"
+  }
+}
